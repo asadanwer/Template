@@ -78,7 +78,7 @@ const SidebarView = ({ classes, theme, toggleSidebar, isSidebarOpened, isPermane
   );
 }
 
-const drawerWidth = 240;
+const drawerWidth = 260;
 
 const styles = theme => ({
   menuButton: {
